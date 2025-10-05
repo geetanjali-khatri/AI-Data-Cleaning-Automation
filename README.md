@@ -1,17 +1,12 @@
 # AI-Data-Cleaning-Automation
-AI-Powered Data Cleaning Automation System 🤖✨
+AI-Powered Data Cleaning Automation System
 
 This project demonstrates a robust, multi-module system built in Python to automate the most challenging data cleaning tasks using Machine Learning (ML) and Large Language Model (LLM) logic.
 
-****
-
-## 🎯 Project Goal
+ 🎯 Project Goal
 
 To replace time-consuming, manual data cleaning with intelligent, scalable automation across three core data quality pillars.
-
----
-
-## 🛠️ Technology Stack
+ Technology Stack
 
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn (KNNImputer, IsolationForest)
